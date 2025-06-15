@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Otokodlayıcı Tabanlı Özellik Çıkarımı ve Sınıflandırma"
-date: 2025-06-12
+date: 2025-06-15
 categories: [makine-öğrenmesi, otokodlayıcı, özellik-çıkarımı]
 tags: [autoencoder, feature-extraction, classification]
 ---
